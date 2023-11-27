@@ -8,40 +8,49 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Gabriel Veludo
+
 
 ## E1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
-        ...
-    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar, enquanto uma
-        (classe/instância) é um objeto específico que contém o seu próprio estado 
-        (Apaga a opção entre parênteses errada)
+        Sim porque quando é criada uma classe é feita uma referência ao que foi criado.
+        
+    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar
+        
     3 - Indica três tipos de membros que podem pertencer a uma classe 
-        ...
+            Váriaveis; Metodos; Construtores.
+        
     4 - Se algo é static então é partilhado por todas as instâncias desse tipo específico? 
-        ...
+        Sim, é partilhado.
+        
     5 - Como se chamam os métodos especiais que inicializam uma classe? 
-        ...
+        São os construtores
+        
     6 - De onde podes aceder a algo private? 
-        ...
+        Apenas dentro da classe.
+        
     7 - De onde podes aceder a algo public? 
-        ... 
+        Em qualquer sitío.
+        
     8 - De onde podes aceder a algo internal? 
-        ...
+        Dentro do mesmo projeto.
 
 ## E2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        ...
+        As classes são o sítio aonde são guardadas aquilo que a classe pode fazer é composta por 4 membros :
+        as variavéis ,os Metodos, os Construtores e as Propriadades.
     2 - Objeto / instância
         ...
     3 - Método
-        ...
+        É o que a classe pode fazer.
     4 - Construtor
-        ...
+        São metodos especiais que inicializam a classe.
+        
     5 - Variável de instância
         ...
+        
     6 - Variável local
         ...
     7 - Overloading
