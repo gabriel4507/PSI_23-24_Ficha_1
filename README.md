@@ -49,7 +49,7 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
         São metodos especiais que inicializam a classe.
         
     5 - Variável de instância
-        ...
+        
         
     6 - Variável local
         ...
