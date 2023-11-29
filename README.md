@@ -39,24 +39,29 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 ## E2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        As classes são o sítio aonde são guardadas aquilo que a classe pode fazer é composta por 4 membros :
+        As classes são o sítio aonde são guardadas aquilo que a classe pode     
+        fazer é composta por 4 membros :
         as variavéis ,os Metodos, os Construtores e as Propriadades.
+        
     2 - Objeto / instância
-        ...
+        São casos especificos de objetos.
+        
     3 - Método
         É o que a classe pode fazer.
     4 - Construtor
         São metodos especiais que inicializam a classe.
         
     5 - Variável de instância
-        
+        Define o estado de cada instancia de classe.
         
     6 - Variável local
-        ...
+         É uma variável usada dentro do método e pode conter o mesmo nome da              variável de instância
+         
     7 - Overloading
-        ...
+        Muitos metodos com o mesmo nome.
+
     8 - Encapsulação
-        ...
+        É um conceito que contem um agrupamento de dados
 
 ## E3 - Cria o seguinte programa de consola (12v)
 
