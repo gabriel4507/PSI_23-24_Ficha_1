@@ -21,7 +21,16 @@ namespace BolasColoridas
       
     }
     
-    
+    public Cor(int red, int green, int blue)
+    {
+      this.red = red;
+      this.blue = blue;
+      this.green = green;
+      this.alpha = 255;
+
+
+    }
+
     
 
   }
